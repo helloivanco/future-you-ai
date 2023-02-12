@@ -54,7 +54,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className='mt-3 text-base font-light max-w-md text-gray-600'>
-          Upload a pic and OpenAI will generate a verison of you.
+          Upload a pic & OpenAI will generate a variation.
         </p>
 
         <div className='mt-4'>
